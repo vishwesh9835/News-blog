@@ -176,5 +176,6 @@ This website follows a **classic professional editorial** aesthetic:
 
 ---
 
-**Enjoy your beautiful blog website!** 🎊
+**Enjoy  beautiful blog website!** 🎊
+
 "

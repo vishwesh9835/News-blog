@@ -66,7 +66,7 @@ A beautiful, professional news/blog website built with vanilla HTML, CSS, and Ja
 ## 🚀 Usage
 
 ### Opening the Website
-Navigate to: `http://localhost:3000/blog.html`
+Navigate to: `https://vishwesh9835.github.io/News-blog/`
 
 ### Keyboard Shortcuts
 - **Escape**: Close sidebar (when open)
